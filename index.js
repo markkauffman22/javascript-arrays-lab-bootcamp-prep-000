@@ -39,8 +39,3 @@ function removeFirstKitten() {
   return kittens.slice(1);
 }
 
-
-
-
-=======
->>>>>>> 8dfbc74f097dbdf388637ebcaff30453ac55b4f8
