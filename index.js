@@ -5,6 +5,7 @@ var kittens = ["Milo", "Otis", "Garfield"] //define your array here
 function kittens() {
   return kittens;
 }
+<<<<<<< HEAD
 
 function destructivelyAppendKitten(name) {
   return kittens.push(name);
@@ -42,3 +43,5 @@ function removeFirstKitten() {
 
 
 
+=======
+>>>>>>> 8dfbc74f097dbdf388637ebcaff30453ac55b4f8
